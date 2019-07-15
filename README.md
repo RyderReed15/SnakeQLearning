@@ -3,11 +3,13 @@ A game of snake that uses deep Q learning to teach itself to play the game. Done
 
 
 ## Dependencies
-- pygame 1.9.4+ 
+- Python 3
 
-- tensorflow 1.13.0+
+- PyGame 1.9.4+ 
 
-maybe lower for both idk
+- TensorFlow 1.13.0+
+
+Maybe lower for both idk
 
 
 ## Instructions
