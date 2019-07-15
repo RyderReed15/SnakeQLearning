@@ -11,4 +11,5 @@ maybe lower for both idk
 
 
 ## Instructions
-Run networkHelper.py to start and from there the GUI is self explanatory
+1. Run networkHelper.py to start
+2. Use the GUI to start training, play the game, or load a previously trained model
