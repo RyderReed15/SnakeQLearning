@@ -1,5 +1,5 @@
 # SnakeQLearning
-A game of snake that uses deep Q learning to teach itself to play the game. Done for my high junoir year CS project.
+A game of snake that uses deep Q learning to teach itself to play the game. Done for my high school junior year CS project.
 
 
 ## Dependencies
